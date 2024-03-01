@@ -4,6 +4,8 @@ I have a special interest in data science and analytical chemistry, which is why
 
 I am currently working on getting familiar with the Github flow and I am also teaching myself MATLAB; all is in preperation for my upcoming bachelor thesis.
 
+- Jeppe
+
 <!--
 **JAarup/JAarup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
