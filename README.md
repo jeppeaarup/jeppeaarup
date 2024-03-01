@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a BSc student in food science and technology at University of Copenhagen, Denmark. 
+I have a special interest in data science and analytical chemistry, which is why I'm on Github.
+
+I am currently working on getting familiar with the Github flow and I am also teaching myself MATLAB; all is in preperation for my upcoming bachelor thesis.
 
 <!--
 **JAarup/JAarup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
