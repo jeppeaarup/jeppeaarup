@@ -1,22 +1,20 @@
 ### Hi there 👋
 I am a BSc student in food science and technology at University of Copenhagen, Denmark. 
 
-I have a special interest in data science and analytical chemistry (especially rapid methods for large scale production), which is why I'm on Github.
+I have a special interest in data science and analytical chemistry for biotech industries in areas such as:
 
-I am currently working on getting familiar with the Github flow and I am also teaching myself MATLAB; all is in preperation for my upcoming bachelor thesis.
+- Process analytical chemistry and technology (aka. industry 4.0)
+- Statistical process control
+- Statistical engineering and optimization
+- Machine learning for analytical chemistry
+
+... and a whole bunch of other chemometrics. 
+
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/jeppeaarupandersen)!
 
 // Jeppe
 
-<!--
-**JAarup/JAarup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Matlab](https://img.shields.io/badge/matlab-orange?style=flat)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
