@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am a BSc student in food science and technology at University of Copenhagen, Denmark. 
+I am a MSc student in food science and technology at University of Copenhagen, Denmark. 
 
 I have a special interest in data science and analytical chemistry for biotech industries in areas such as:
 
-- Process analytical chemistry and technology (aka. industry 4.0)
+- Process analytical chemistry and technology
 - Statistical process control
 - Statistical engineering and optimization
 - Machine learning for analytical chemistry
